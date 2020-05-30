@@ -7,8 +7,8 @@ dependencies:
   - netcdf4
   - numpy
   - pandas
+  - scikit-learn
   - scipy
-  - sklearn
   - statsmodels
   - xarray
 
