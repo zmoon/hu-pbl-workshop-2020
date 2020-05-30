@@ -1,0 +1,14 @@
+# 
+name: hu-pbl-workshop
+dependencies:
+  - python=3.7
+  - hdf5
+  - matplotlib
+  - netcdf4
+  - numpy
+  - pandas
+  - scipy
+  - sklearn
+  - statsmodels
+  - xarray
+
