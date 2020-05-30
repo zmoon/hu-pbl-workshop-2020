@@ -1,0 +1,4 @@
+
+# use nbdime to diff jup nbs (see gitattributes setting)
+# requires that one of nbdime's nbdiff drivers is registered with Git and available to use
+*.ipynb diff=jupyternotebook
