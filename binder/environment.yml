@@ -1,14 +1,17 @@
 # 
 name: hu-pbl-workshop
+channels: 
+  - conda-forge
 dependencies:
   - python=3.7
   - hdf5
+  - hvplot  # brings holoviews, bokeh
   - matplotlib
   - netcdf4
   - numpy
   - pandas
+  - rise  # for slides
   - scikit-learn
   - scipy
   - statsmodels
   - xarray
-
