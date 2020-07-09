@@ -6,6 +6,7 @@ dependencies:
   - python=3.7
   - hdf5
   - hvplot  # brings holoviews, bokeh
+  - ipywidgets
   - matplotlib
   - netcdf4
   - numpy
@@ -13,5 +14,6 @@ dependencies:
   - rise  # for slides
   - scikit-learn
   - scipy
+  - siphon  # Unidata data downloader
   - statsmodels
   - xarray
