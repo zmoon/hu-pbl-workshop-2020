@@ -8,6 +8,7 @@ dependencies:
   - hvplot  # brings holoviews, bokeh
   - ipywidgets
   - matplotlib
+  - metpy
   - netcdf4
   - numpy
   - pandas
