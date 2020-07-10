@@ -12,6 +12,7 @@ dependencies:
   - netcdf4
   - numpy
   - pandas
+  - pvlib-python
   - rise  # for slides
   - scikit-learn
   - scipy
