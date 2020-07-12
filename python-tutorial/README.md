@@ -11,7 +11,7 @@ I used [RISE](https://rise.readthedocs.io/en/stable/) while developing the slide
 
 ## Tutorial
 
-*Tutorial notebook* (exercise)
+*Tutorial notebook* (more demo + exercises)
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/zmoon92/hu-pbl-workshop-2020/blob/master/python-tutorial/tutorial.ipynb) (view rendered on Jupyter NBViewer)
 

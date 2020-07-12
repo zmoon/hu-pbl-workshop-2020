@@ -7,6 +7,7 @@ dependencies:
   - hdf5
   - hvplot  # brings holoviews, bokeh
   - ipywidgets
+  - jupyter_contrib_nbextensions
   - matplotlib
   - metpy
   - netcdf4
