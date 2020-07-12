@@ -4,6 +4,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7
+  #
+  - cartopy
   - hdf5
   - hvplot  # brings holoviews, bokeh
   - ipywidgets
