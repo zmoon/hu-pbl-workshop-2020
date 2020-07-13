@@ -11,7 +11,7 @@ Some of my stuff for the HU PBL Workshop
   - installing Jupyter NB extensions from conda-forge, the first line in the example [is not needed](https://github.com/ipython-contrib/jupyter_contrib_nbextensions#conda)
   - `toc2` is part of the "contrib" package, so `--py` not needed
 
-* To create the environment locally, install the Conda environment in `binder/environment.yml`
+* To create the environment locally, install the [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) in [`binder/environment.yml`](binder/environment.yml)
   ```
   conda env create -f environment.yml
   ```
