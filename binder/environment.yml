@@ -19,6 +19,7 @@ dependencies:
   - rise  # for slides
   - scikit-learn
   - scipy
+  - seaborn
   - siphon  # Unidata data downloader
   - statsmodels
   - xarray
